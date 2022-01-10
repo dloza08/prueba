@@ -1,0 +1,37 @@
+/*Selector de clase*/      
+       .mi-clase{
+           color: aqua;
+           font:300;
+       }
+       .otra-clase{
+           background-color: brown
+       }
+       
+       /*Selector id*/
+       #header {
+           color: blue;
+       }
+
+       /* Selector de elementos*/
+       body {
+           color: yellow;
+        }
+
+        p:hover {
+            color: chocolate;
+        }        
+
+        .container{
+            display:flex;
+            flex-wrap: wrap;
+           /* flex-direction: column*/;   
+        }
+
+        .item{
+            flex: 1 1 200px;
+            height: 100px;
+            flex-grow: 1;
+            border: 1px solid blue;
+        }
+
+        
