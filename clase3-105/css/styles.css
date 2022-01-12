@@ -4,7 +4,7 @@
            font:300;
        }
        .otra-clase{
-           background-color: brown
+           background-color:burlywood; 
        }
        
        /*Selector id*/
@@ -14,7 +14,7 @@
 
        /* Selector de elementos*/
        body {
-           color: yellow;
+           color:cornflowerblue; 
         }
 
         p:hover {
@@ -31,7 +31,7 @@
             flex: 1 1 200px;
             height: 100px;
             flex-grow: 1;
-            border: 1px solid blue;
+            border: 2px solid blue;
         }
 
         
